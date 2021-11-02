@@ -1,0 +1,20 @@
+//for loops:
+
+1. hacer un loop que devuelva los impares hasta el 25 (25 incluido). 
+2. hacer un loop que devuelva los multiplos de 3 menores a 40.
+3. hacer un loop que empiece en 40 y vaya restando de a 2 hasta el 0. 
+4. hacer un array de lo que queramos de 5 elementos y consolear cada elemento.
+5. deletrear una palabra, poner una coma después de cada letra. (c, o, s, a)
+6. hacer un loop que corte la ejecución si cae en 15. Ir del 0 al 20, incrementar de a 3.
+
+//for in:
+1. mostrar por ej "el avestruz vive en África", con el continente como key y el animal como valor. Hacerlo con 5 animales.
+2. Mostrar un array de comidas.
+
+//if:
+1. Si hace calor, comer un helado. 
+2. Si hace mas de 20 grados, chequear si hace más de 30 grados. Si hace menos, llevar paraguas. Si hace más, llevar sombrero. Si hace menos de 20, llevar bufanda.
+
+//case:
+
+1. chequear la humedad. Si hace más de 80%, (acuerdense que el % lo tienen que poner como caracter, porque es resto, no porcentaje), va a llover. Poner otros 4 casos.
